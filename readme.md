@@ -23,6 +23,7 @@ And open up this project in your favorite text editor. Follow along with instruc
 
 
 ## Committing to GIT
+### WH: I'm using the GitHub Windows for this, works great. Below commands can be used when a shell is started from tools. Currently the default is powershell. 
 
 Use this section as a reference to GIT.
 
